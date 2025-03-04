@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "compress-eml-file": {
+      "commandName": "Project",
+      "commandLineArgs": "."
+    }
+  }
+}
